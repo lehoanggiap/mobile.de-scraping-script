@@ -1,3 +1,4 @@
+![Build Status](https://github.com/lehoanggiap/mobile.de-scraping-script/actions/workflows/build.yml/badge.svg)
 <h2>What the hell I'm trying to do with this source code?</h2>
 Scraping website http://Mobile.de?lang=en
 
