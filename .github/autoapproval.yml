@@ -1,7 +1,6 @@
 _extends: github-settings
 
-from_owner: 
-  - []
+from_owner: []
 
 required_labels: 
   - [autoapproval-PR]
