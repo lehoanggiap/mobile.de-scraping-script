@@ -1,3 +1,5 @@
+name: Auto approve PR
+
 on:
   pull_request:
     types: [opened, reopened, labeled, edited]
