@@ -3,7 +3,7 @@ _extends: github-settings
 from_owner: []
 
 required_labels: 
-  - [autoapproval-PR]
+  - autoapproval-PR
 
 blacklisted_labels:
   - wip
